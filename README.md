@@ -91,7 +91,11 @@ LOOCV is a special case of k-fold CV in which k is set to equal n
 
 
 
-
+Distance or similarity
+Continuous - euclidean distance
+Continuous - correlation similarity
+Binary - manhattan distance
+Pick a distance/similarity that makes sense for your problem
 
 
 
